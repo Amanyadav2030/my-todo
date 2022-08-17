@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>My todo</h1>
+      <h1>My_todo</h1>
       <Todo/>
     </div>
   )
